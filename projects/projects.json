@@ -1,62 +1,62 @@
 [
   {
-    "name": "Home-selling Website",
-    "desc": "React, AngularJS, React Hook, Material UI, Node.js, SASS, MongoDB",
-    "image": "portfolio2",
-    "category": "Web",
+    "name": "Instagram MERN",
+    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "instagrammern",
+    "category": "mern",
     "links": {
-      "view": "https://www.homelister.com/",
-      "code": "#"
+      "view": "https://instagramernstack.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/instagram-mern"
     }
   },
   {
-    "name": "Urban park Website",
-    "desc": "PHP, WordPress, JavaScript, CSS, MySQL",
-    "image": "portfolio3",
-    "category": "Web",
+    "name": "Flipkart MERN",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "flipkartmern",
+    "category": "mern",
     "links": {
-      "view": "https://www.prospectpark.org/",
-      "code": "#"
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
     }
   },
   {
-    "name": "Families manage Website",
-    "desc": "PHP, WordPress, JavaScript, CSS, MySQL",
-    "image": "portfolio4",
-    "category": "Web",
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
     "links": {
-      "view": "https://screenready.att.com",
-      "code": "#"
+      "view": "https://resumegenx.netlify.app/",
+      "code": "https://github.com/jigar-sable/resumegen"
     }
   },
   {
-    "name": "Food Website",
-    "desc": "React, React Native, Django, Redux, Bootstrap, SASS",
-    "image": "portfolio5",
-    "category": "Web",
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
     "links": {
-      "view": "https://hawkker.com",
-      "code": "#"
+      "view": "https://reactjsprojects.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/React-Projects"
     }
   },
   {
-    "name": "RV rental Website",
-    "desc": "React, React Hook, Tailwind, Typescript, Next.js, GraphQL",
-    "image": "portfolio6",
-    "category": "Web",
+    "name": "Flipkart PHP",
+    "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
+    "image": "flipkartphp",
+    "category": "lamp",
     "links": {
-      "view": "https://www.outdoorsy.com/",
-      "code": "#"
+      "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
+      "code": "https://github.com/jigar-sable/Flipkart-Clone-PHP"
     }
   },
-  { 
-    "name": " Patient health Website",
-    "desc": "React, React Hook, Typescript, React Native, Next.js, Node.js, WebSocket, AWS SDK, Postgres",
-    "image": "portfolio7",
-    "category": "Web",
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
     "links": {
-      "view": "https://aiberry.io/",
-      "code": "#"
+      "view": "https://jigar-sable.github.io/JavaScript-Projects",
+      "code": "https://github.com/jigar-sable/JavaScript-Projects"
     }
   }
 ]
